@@ -1,3 +1,7 @@
+/*
+Project of an automatic feeder 
+*/
+
 #include <avr/interrupt.h>
 #include <Arduino.h>
 
