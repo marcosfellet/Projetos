@@ -8,7 +8,7 @@ Project of an automatic feeder
 unsigned char cnt = 0; // contador que define a parada por interrupcao do timer
 unsigned char valor, modo; // A variavel "valor" sera usada para 
 unsigned int tempo = 0; // Intervalo de tempo para liberar a racao 
-bool racao; // Variavel que decide se liberara a racao 
+bool racao; // Variavel que verifica se o alimento utilizado e racao ou nao
 
 void setup() {
   // put your setup code here, to run once:
